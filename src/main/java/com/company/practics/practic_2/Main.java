@@ -1,4 +1,4 @@
-package com.company.practics.practic_2;
+package main.java.com.company.practics.practic_2;
 
 import java.time.LocalDate;
 import java.util.Arrays;
