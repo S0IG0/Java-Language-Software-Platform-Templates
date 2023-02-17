@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_6.Factory;
+package com.company.practics.practic_6.Factory;
 // Product - это интерфейс для создания продукта.
 // ConcreteProduct - это конкретная реализация Product.
 // Creator - это абстрактный класс, определяющий factoryMethod, который возвращает Product.

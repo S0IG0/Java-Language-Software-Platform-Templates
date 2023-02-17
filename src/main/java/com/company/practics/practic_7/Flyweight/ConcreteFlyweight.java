@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_7.Flyweight;
+package com.company.practics.practic_7.Flyweight;
 
 public class ConcreteFlyweight extends Flyweight {
     private final String key;

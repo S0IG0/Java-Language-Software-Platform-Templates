@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_6.Factory;
+package com.company.practics.practic_6.Factory;
 
 class ConcreteProduct implements Product {
     @Override

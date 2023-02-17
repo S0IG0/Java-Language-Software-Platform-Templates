@@ -1,6 +1,6 @@
-package main.java.com.company.practics.practic_5.ProgramLogger;
+package com.company.practics.practic_5.ProgramLogger;
 
-import main.java.com.company.practics.practic_5.InterfaceLogger.Logger;
+import com.company.practics.practic_5.InterfaceLogger.Logger;
 
 // Реализация с использованием ленивой инициализации
 public class ProgramLoggerLazyInit implements Logger {

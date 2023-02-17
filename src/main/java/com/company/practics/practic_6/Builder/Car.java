@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_6.Builder;
+package com.company.practics.practic_6.Builder;
 
 public class Car {
     private final String make;

@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_5.InterfaceLogger;
+package com.company.practics.practic_5.InterfaceLogger;
 
 public interface Logger {
     public void addLogg(String logg);

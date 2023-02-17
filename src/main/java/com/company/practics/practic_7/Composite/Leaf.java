@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_7.Composite;
+package com.company.practics.practic_7.Composite;
 
 public record Leaf(String name) implements Component {
 

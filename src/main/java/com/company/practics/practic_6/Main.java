@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_6;
+package com.company.practics.practic_6;
 
 public class Main {
 

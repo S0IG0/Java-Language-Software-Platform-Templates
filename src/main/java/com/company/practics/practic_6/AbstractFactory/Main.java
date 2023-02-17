@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_6.AbstractFactory;
+package com.company.practics.practic_6.AbstractFactory;
 // Button и Checkbox - это интерфейсы для создания элементов управления.
 // WinButton, WinCheckbox, MacButton и MacCheckbox - это конкретные реализации элементов управления.
 // GUIFactory - это интерфейс для создания элементов управления в определенном стиле.

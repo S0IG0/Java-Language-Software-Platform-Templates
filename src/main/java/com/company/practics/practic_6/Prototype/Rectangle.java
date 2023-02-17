@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_6.Prototype;
+package com.company.practics.practic_6.Prototype;
 
 class Rectangle extends Shape {
     public Rectangle() {

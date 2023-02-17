@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_6.Builder;
+package com.company.practics.practic_6.Builder;
 // `Car` - это класс, объекты которого мы будем строить.
 // `CarBuilder` - это интерфейс, определяющий методы для установки свойств машины.
 // `CarBuilderImpl` - это реализация `CarBuilder`,

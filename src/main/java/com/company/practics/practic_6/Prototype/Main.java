@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_6.Prototype;
+package com.company.practics.practic_6.Prototype;
 // Shape - это абстрактный класс, определяющий метод clone() и метод draw(),
 // который должен быть реализован в каждом конкретном классе.
 // Rectangle и Circle - это конкретные классы, наследующиеся от Shape.

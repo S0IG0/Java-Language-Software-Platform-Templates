@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_6.Factory;
+package com.company.practics.practic_6.Factory;
 
 public class ConcreteCreator extends Creator {
     @Override

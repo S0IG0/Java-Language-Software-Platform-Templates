@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_3;
+package com.company.practics.practic_3;
 
 import java.util.Set;
 

@@ -1,9 +1,9 @@
-package main.java.com.company.practics.practic_5;
+package com.company.practics.practic_5;
 
-import main.java.com.company.practics.practic_5.InterfaceLogger.Logger;
-import main.java.com.company.practics.practic_5.ProgramLogger.ProgramLoggerEnum;
-import main.java.com.company.practics.practic_5.ProgramLogger.ProgramLoggerLazyInit;
-import main.java.com.company.practics.practic_5.ProgramLogger.ProgramLoggerStatic;
+import com.company.practics.practic_5.InterfaceLogger.Logger;
+import com.company.practics.practic_5.ProgramLogger.ProgramLoggerEnum;
+import com.company.practics.practic_5.ProgramLogger.ProgramLoggerLazyInit;
+import com.company.practics.practic_5.ProgramLogger.ProgramLoggerStatic;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_1;
+package com.company.practics.practic_1;
 
 import java.util.function.Predicate;
 import java.util.regex.Pattern;

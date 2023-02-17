@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_8.Command;
+package com.company.practics.practic_8.Command;
 
 public class UnitTest extends Test{
     public final String name;

@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_7.Composite;
+package com.company.practics.practic_7.Composite;
 // Component определяет общий метод operation(),
 // который реализуют как листья (Leaf),
 // так и композитные объекты (Composite).

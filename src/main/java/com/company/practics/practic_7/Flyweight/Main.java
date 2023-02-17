@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_7.Flyweight;
+package com.company.practics.practic_7.Flyweight;
 // FlyweightFactory предоставляет доступ к легковесам.
 // Flyweight - это абстрактный класс, который содержит метод operation(),
 // который должен быть реализован конкретными легковесами.
