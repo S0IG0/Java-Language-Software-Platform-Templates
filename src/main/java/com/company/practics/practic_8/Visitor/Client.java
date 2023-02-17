@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_8.Visitor;
+package com.company.practics.practic_8.Visitor;
 
 // команда представлена интерфейсом Command,
 // а ее конкретная реализация ConcreteCommand содержит ссылку на получателя Receiver.

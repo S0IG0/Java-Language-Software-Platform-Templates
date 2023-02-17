@@ -1,8 +1,8 @@
-package main.java.com.company.practics.practic_8.Visitor;
+package com.company.practics.practic_8.Visitor;
 
 // ConcreteCommand (конкретная команда)
 public class ConcreteCommand implements Command {
-    private Receiver receiver;
+    private final Receiver receiver;
 
     public ConcreteCommand(Receiver receiver) {
         this.receiver = receiver;

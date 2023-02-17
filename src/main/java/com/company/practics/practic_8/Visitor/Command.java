@@ -1,4 +1,4 @@
-package main.java.com.company.practics.practic_8.Visitor;
+package com.company.practics.practic_8.Visitor;
 
 // Command (команда)
 public interface Command {
