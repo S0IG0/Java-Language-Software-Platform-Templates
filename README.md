@@ -13,7 +13,7 @@
 | 5      | 10     | Реализовать паттерн Singleton как минимум 3-мя способами                                                                                    | [task](./src/main/java/com/company/practics/practic_5)  |
 | 6      | 10     | Написать реализацию паттернов «Фабричный метод», «Абстрактная фабрика», «Строитель», «Прототип».                                            | [task](./src/main/java/com/company/practics/practic_6)  |
 | 7      | 10     | Легковес, Компоновщик.                                                                                                                      | [task](./src/main/java/com/company/practics/practic_7)  |
-| 8      | 10     |                                                                                                                                             | [task](./src/main/java/com/company/practics/practic_8)  |
+| 8      | 10     | Посетитель, Команда.                                                                                                                        | [task](./src/main/java/com/company/practics/practic_8)  |
 | 9      | ?      |                                                                                                                                             | [task](./src/main/java/com/company/practics/practic_9)  |
 | 10     | ?      |                                                                                                                                             | [task](./src/main/java/com/company/practics/practic_10) |
 | 11     | ?      |                                                                                                                                             | [task](./src/main/java/com/company/practics/practic_11) |
