@@ -12,7 +12,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 @SpringBootApplication
-public class HashFileApplication {
+public class  HashFileApplication {
 
     public String inputFileName = "src\\main\\java\\com\\company\\practics\\practic_12\\input.txt";
     public String outputFileName = "src\\main\\java\\com\\company\\practics\\practic_12\\output.txt";
