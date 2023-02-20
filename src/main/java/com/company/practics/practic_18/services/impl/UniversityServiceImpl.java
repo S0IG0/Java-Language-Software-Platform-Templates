@@ -47,7 +47,7 @@ public class UniversityServiceImpl implements UniversityService {
     }
 
     @Override
-    public ResponseEntity<University> updateStudent(Long id, University university) {
+    public ResponseEntity<University> updateUniversity(Long id, University university) {
         return universityRepository.findById(id)
                 .map(existingUniversity -> {
                     existingUniversity.setName(university.getName());
@@ -59,7 +59,7 @@ public class UniversityServiceImpl implements UniversityService {
     }
 
     @Override
-    public ResponseEntity<?> deleteStudent(Long id) {
+    public ResponseEntity<?> deleteUniversity(Long id) {
         return universityRepository.findById(id)
                 .map(university -> {
                     universityRepository.deleteById(id);

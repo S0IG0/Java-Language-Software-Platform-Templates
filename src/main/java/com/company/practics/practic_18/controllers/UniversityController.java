@@ -36,12 +36,12 @@ public class UniversityController {
 
     @PutMapping("/{id}")
     public ResponseEntity<University> update(@PathVariable Long id, @RequestBody University university) {
-        return universityService.updateStudent(id, university);
+        return universityService.updateUniversity(id, university);
     }
 
     @DeleteMapping("/{id}")
     public ResponseEntity<?> delete(@PathVariable Long id) {
-        return universityService.deleteStudent(id);
+        return universityService.deleteUniversity(id);
     }
 
     @GetMapping("/filtered")

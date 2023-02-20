@@ -10,8 +10,8 @@ public interface UniversityService {
     ResponseEntity<University> createUniversity(University university);
     List<University> getAll();
     ResponseEntity<University> getById(Long id);
-    ResponseEntity<University> updateStudent(Long id, University university);
-    ResponseEntity<?> deleteStudent(Long id);
+    ResponseEntity<University> updateUniversity(Long id, University university);
+    ResponseEntity<?> deleteUniversity(Long id);
     List<University> getUniversitiesByFiltered(
             String firstName,
             String lastName,
