@@ -49,7 +49,7 @@ public class StudentServiceImpl implements StudentService {
                 student.toString()
         );
         Student savedStudent = studentRepository.save(student);
-        log.info("Created student with id " + savedStudent.getId());
+//        log.info("Created student with id " + savedStudent.getId());
         return ResponseEntity.status(HttpStatus.CREATED).body(savedStudent);
     }
 
