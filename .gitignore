@@ -8,3 +8,4 @@ target/classes
 /application.2023-0220.gz
 /backup/*
 /backup/
+/application.*
